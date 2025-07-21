@@ -1,11 +1,8 @@
-<<<<<<< HEAD
+
 #include <stdio.h>
 int main()
 {
-=======
-#include# <stdio.h>
-int main() {
->>>>>>> b2
+
     int numberprintf("Enter an integer: ");
     scanf("%d", &number);
     printf("Enter an integer: ");
@@ -23,9 +20,14 @@ int main() {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     return 0;
 }
-printf("good program");
->>>>>>> b2
+=======
 
+
+
+
+
+>>>>>>> b3

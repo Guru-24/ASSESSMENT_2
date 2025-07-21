@@ -9,4 +9,9 @@ int main() {
     } 
     else {
         printf("%d is Odd.\n", number);
+	}
+
+    return 0;
+}
+
 
